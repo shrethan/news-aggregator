@@ -7,7 +7,7 @@ export const sportsNews: NewsArticle[] = [
     description: 'In a stunning upset, the underdog team clinches their first championship title in 50 years, marking a historic moment in sports history.',
     imageUrl: 'https://images.unsplash.com/photo-1461896836934-ffe607ba8211',
     source: 'Sports Central',
-    url: 'https://sportscentral.com/historic-championship-win',
+    url: 'https://www.mensjournal.com/sports/15-greatest-underdog-sports-stories-all-time',
     category: 'Sports',
     publishedAt: '2024-03-12T22:45:00Z',
     trustScore: 0.96
